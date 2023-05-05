@@ -1,3 +1,7 @@
 docdb:
     source: "https://github.com/devops-anilkumar/tf-module-mongodb.git"
     version: "main"
+
+redis:
+    source: "https://github.com/devops-anilkumar/tf-module-redis.git"
+    version: "main"
