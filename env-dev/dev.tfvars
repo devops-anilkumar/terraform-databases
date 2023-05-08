@@ -1,15 +1,15 @@
 ENV                  =     "dev"
 
 #MYSQL VALUES 
-MYSQL_RDS_PORT                =    3306
-MYSQL_RDS_STORAGE             =    10
-MYSQL_RDS_ENGINE_VERSION      =  " 5.7"
-MYSQL_RDS_INSTANCE_TYPE       =  "db.t3.micro"
+MYSQL_RDS_PORT             =    3306
+MYSQL_RDS_STORAGE          =    10
+MYSQL_RDS_ENGINE_VERSION   =   "5.7"
+MYSQL_RDS_INSTANCE_TYPE    =   "db.t3.micro"
 
 #MONGODB VALUES
-DOCDB_PORT                    =    27017
-DOCDB_INSTANCE_CLASS          =    "db.t3.medium"
-DOCDB_INSTANCE_COUNT          =   1
+DOCDB_PORT                  =    27017
+DOCDB_INSTANCE_CLASS        =    "db.t3.medium"
+DOCDB_INSTANCE_COUNT        =     1
 
 #ELASTIC CACHE VALUES
 ELASTIC_CACHE_PORT            =  6379
