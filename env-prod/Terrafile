@@ -9,3 +9,7 @@ redis:
 mysql:
     source: "https://github.com/devops-anilkumar/tf-module-mysql.git"
     version: "main"
+
+mysql:
+    source: "https://github.com/devops-anilkumar/tf-module-rabbitmq.git"
+    version: "main"
