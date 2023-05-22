@@ -17,3 +17,6 @@ ELASTIC_CACHE_NODE_TYPE       = "cache.t3.small"
 ELASTIC_CACHE_NODE_COUNT      =  1
 ELASTIC_CACHE_ENGINE_VERSION  =  "6.x"
 
+# RabbitQ
+RABBITMQ_PORT                = "5672"
+
